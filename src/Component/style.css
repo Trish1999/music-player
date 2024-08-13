@@ -1,0 +1,117 @@
+.logo{
+   text-align: center;
+   font-size: 3rem;
+   font-weight: bold; 
+   color: #fff;
+      text-shadow:
+         0 0 10px #fff,
+         0 0 102px #5279c6,
+         0 0 151px #051d4d;
+   }
+
+.card{
+      display :flex;
+   justify-content: flex-start;
+}
+
+.currentSong{
+   width:70vw;
+   height:90vh;
+   display :flex;
+   justify-content: flex-start;
+   align-items: center;
+   flex-direction: column;
+}
+
+.image img {
+   margin-top:4rem;
+   width: 40vw;
+   height: 50vh;
+   box-shadow: 0px 0px 50px 0px #4c73c2;
+   border-radius: 2rem;
+   filter: brightness(100%);
+}
+
+h1{
+   color:white;
+   text-align: center;
+}
+
+.time{
+   color:white;
+   margin:1rem;
+}
+
+.controls{
+   font-size: 1.5rem;
+}
+.controls i{
+   font-size: 1.5rem;
+}
+
+.controls button{
+   width:4rem;
+   height:3rem;
+   margin:0.2rem;
+   border-radius: 1rem;
+   border:solid black;
+   cursor: pointer;
+}
+
+.controls button:hover {
+   color:white;
+   background-color: #3e73db;
+   box-shadow: 0px 0px 50px 0px #4c73c2;
+}
+
+.tracks{
+   display: flex;
+   justify-content: flex-start;
+   flex-direction: row;
+}
+
+.tracks:hover{
+   background:#3e73db;
+   box-shadow: 0px 0px 50px 0px #4c73c2;
+   cursor: pointer;
+
+}
+
+.trackImg{
+   width:9rem;
+   height:5rem;
+   padding: 1rem;
+   border-radius: 2rem;
+}
+
+.details{
+   line-height: 5px;
+   color:white;
+   font-size: large;
+   font-weight: 400;
+}
+
+.playList{
+   height:90vh;
+   width:40vw;
+   overflow-y: scroll;
+}
+
+.playList::-webkit-scrollbar {
+   width: 12px;
+   background-color: blue;
+}
+
+.playList::-webkit-scrollbar-track {
+   background: white;
+   border-radius:1rem ;
+}
+
+.playList::-webkit-scrollbar-thumb {
+   background-color: black;
+   border-radius: 1rem;
+   border: 3px solid white;
+}
+
+
+

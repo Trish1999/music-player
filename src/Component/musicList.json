@@ -1,0 +1,81 @@
+{
+  "musicList": [
+    {
+      "name": "Tum Hi Ho",
+      "author": "Arijit Singh",
+      "img": "https://i.ytimg.com/vi/NUo8CKI34o4/maxresdefault.jpg",
+      "audio": "/musics/tum hi ho.mp3",      
+      "duration": "4:22"
+    },
+    {
+      "name": "Tera Ban Jaunga",
+      "author": "Akhil Sachdeva, Tulsi Kumar",
+      "img": "https://i.ytimg.com/vi/avVg3pLj_Po/maxresdefault.jpg",
+      "audio": "/musics/tera ban jaounga.mp3", 
+      "duration": "3:56"
+    },
+    {
+      "name": "Kabira",
+      "author": "Arijit Singh, Harshdeep Kaur",
+      "img": "https://i.ytimg.com/vi/jHNNMj5bNQw/maxresdefault.jpg",
+      "audio": "/musics/kabira.mp3",
+      "duration": "4:11"
+    },
+    {
+      "name": "Raabta",
+      "author": "Arijit Singh",
+      "img": "https://i.ytimg.com/vi/YXjYfpqg8Z0/maxresdefault.jpg",
+      "audio":  "/musics/raabta.mp3", 
+      "duration": "4:09"
+    },
+    {
+      "name": "Sun Saathiya",
+      "author": "Priya Saraiya, Divya Kumar",
+      "img": "https://i.ytimg.com/vi/FrgAmPnMwRA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCOQfv3F79T0ex9p3nZwBuDDF_c_w",
+      "audio":  "/musics/sun sathiya.mp3", 
+      "duration": "3:44"
+    },
+    {
+      "name": "Channa Mereya",
+      "author": "Arijit Singh",
+      "img": "https://i.ytimg.com/vi/bzSTpdcs-EI/maxresdefault.jpg",
+      "audio": "/musics/channa mereya.mp3",
+      "duration": "5:00"
+    },
+    {
+      "name": "Dil Dhadakne Do",
+      "author": "Priyanka Chopra, Farhan Akhtar",
+      "img": "https://i.ytimg.com/vi/56ZzM4mz4yY/maxresdefault.jpg",
+      "audio": "/musics/dil dhadakne do.mp3",
+      "duration": "3:59"
+    },
+    {
+      "name": "Janam Janam",
+      "author": "Arijit Singh",
+      "img": "https://i.ytimg.com/vi/pIBoAh4OXhQ/maxresdefault.jpg",
+      "audio": "/musics/janam janam.mp3",
+      "duration": "4:20"
+    },
+    {
+      "name": "Tum Mile",
+      "author": "Neeraj Shridhar",
+      "img": "https://i.ytimg.com/vi/UcqI3uBKgTg/maxresdefault.jpg",
+      "audio": "/musics/tum mile.mp3",
+      "duration": "4:06"
+    },
+    {
+      "name": "Ae Mere Humsafar",
+      "author": "Mansheel Gujral",
+      "img": "https://i.ytimg.com/vi/nBLYHFwIyYA/maxresdefault.jpg",
+      "audio": "/musics/ae mere humsafar.mp3",
+      "duration": "3:36"
+    },
+    {
+      "name": "Khairiyat",
+      "author": "Arijit Singh",
+      "img": "https://i.ytimg.com/vi/ZxiETzt9icM/maxresdefault.jpg",
+      "audio": "/musics/khairiyat.mp3",
+      "duration": "4:05"
+    }
+  ]
+}
