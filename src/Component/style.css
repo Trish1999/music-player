@@ -113,5 +113,64 @@ h1{
    border: 3px solid white;
 }
 
+@media (min-width: 300px) and (max-width: 780px) {
+
+   .card {
+      display: block;
+   }
 
 
+   h1 {
+      font-size: small;
+   }
+
+   .currentSong {
+      width: 100vw;
+      height: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+   }
+
+  .details {
+     font-size: small;
+     font-weight: 400;
+  }
+
+  .logo {
+     text-align: center;
+     font-size: 1.5rem;
+  }
+
+  .image img {
+     margin-top: 4rem;
+     width: 50vw;
+     height: 20vh;
+  }
+
+  .tracks {
+     display: flex;
+     justify-content: flex-start;
+     flex-direction: row;
+  }
+
+  .controls {
+     font-size: 1rem;
+  }
+
+  .controls i {
+     font-size: 1rem;
+  }
+
+  .controls button {
+     width: 3rem;
+     height: 2.5rem;
+  }
+
+  .playList {
+     height: 50vh;
+     width: 100vw;
+
+  }
+  }
